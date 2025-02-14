@@ -1,4 +1,4 @@
-**Web Opener Flask**  
+### **Web Opener Flask**  
 Web Opener is a simple web application built with Flask that allows users to choose a website (such as Google, YouTube, Wikipedia, Gmail, Facebook, or Instagram) from a dropdown menu and open it in their browser using Selenium WebDriver.
 
 ### Features
