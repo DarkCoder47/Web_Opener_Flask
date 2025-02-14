@@ -33,14 +33,6 @@ Before running the application, make sure you have the following installed:
    pip install -r requirements.txt
    ```
 
-   Create a `requirements.txt` file with the following content:
-
-   ```
-   Flask==2.2.2
-   selenium==4.1.0
-   webdriver-manager==3.8.0
-   ```
-
 4. Run the Flask app:
    ```bash
    python app.py
